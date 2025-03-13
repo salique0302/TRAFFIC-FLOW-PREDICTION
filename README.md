@@ -27,8 +27,11 @@ Missing Values: Missing values in the dataset were replaced with median values o
 Through EDA, several important traffic patterns emerged:
 
 Peak Hours: Morning and evening rush hours showed spikes in car and bike counts, while bus and truck counts remained relatively stable throughout the day.
+
 Vehicle Types: Cars consistently represented the highest volume of traffic, followed by bikes, buses, and trucks. Trucks had the lowest overall volume.
+
 Traffic Situations: Traffic conditions worsened as truck traffic increased, with fewer occurrences of light or no traffic (lower traffic situation categories).
+
 Day of the Week: There was no significant variation in total traffic across different days, although individual vehicle types showed some variability in their distributions.
 
 ## Model Building and Evaluation
