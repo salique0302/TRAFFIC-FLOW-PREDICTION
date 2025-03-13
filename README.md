@@ -1,7 +1,7 @@
-# TRAFFIC-FLOW-PREDICTION🚦
+# TRAFFIC-FLOW-PREDICTION🚦🚘
 This project aims to predict traffic flow based on historical data, including vehicle counts (cars, bikes, buses, trucks), time, and day of the week. By analyzing this data, we seek to identify patterns in traffic flow, predict traffic situations, and provide actionable insights to manage congestion and improve urban mobility.also aids in optimizing traffic control strategies and contributes to sustainability goals by reducing emissions and fuel consumption through better traffic management.
 
-## Data Dictionary
+## Data Dictionary📕
 
 The dataset contains traffic flow records, including:
 
@@ -15,7 +15,7 @@ TruckCount: Number of trucks counted
 Total: Total number of vehicles at the timestamp
 Traffic Situation: The categorized traffic condition (e.g., congestion levels)
 
-## Data Preprocessing
+## Data Preprocessing⏳
 
 Steps:
 Time & Date Formatting: The Time and Date columns were converted to appropriate formats (datetime). New features, such as Hour, Month, and Day, were extracted to capture temporal patterns.
